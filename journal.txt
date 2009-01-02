@@ -1,1 +1,2 @@
 2009-01-01 21:42:50: Alignment is a lie.
+2009-01-02 22:05:09: Enhanced scalability
