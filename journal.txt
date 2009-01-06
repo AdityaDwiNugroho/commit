@@ -3,3 +3,4 @@
 2009-01-03 15:39:30: StackOverflow taught me something new today.
 2009-01-04 11:45:22: Boosted throughput significantly
 2009-01-05 13:42:15: Improved code quality
+2009-01-06 13:02:59: Code edit.
