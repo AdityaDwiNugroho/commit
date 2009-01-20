@@ -17,3 +17,4 @@
 2009-01-17 09:22:42: Improved error recovery
 2009-01-18 10:02:14: What if I tried it this way?
 2009-01-19 10:24:13: Accelerated query execution
+2009-01-20 12:57:15: Left TODOs for later. Might not come back.
