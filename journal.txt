@@ -18,3 +18,4 @@
 2009-01-18 10:02:14: What if I tried it this way?
 2009-01-19 10:24:13: Accelerated query execution
 2009-01-20 12:57:15: Left TODOs for later. Might not come back.
+2009-01-21 18:02:56: This is fine. Everything is fine.
