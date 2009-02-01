@@ -29,3 +29,4 @@
 2009-01-29 13:47:16: Enhanced scalability
 2009-01-30 11:53:58: This code is older than it should be.
 2009-01-31 17:57:30: Documented API changes
+2009-02-01 09:53:45: Parallelized critical operations
