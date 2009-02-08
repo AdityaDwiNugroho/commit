@@ -36,3 +36,4 @@
 2009-02-05 14:32:29: Streamlined data processing
 2009-02-06 18:22:17: Commit now, regret later.
 2009-02-07 23:45:34: Testing stuff. Results unclear.
+2009-02-08 19:20:59: Minimized computational overhead
