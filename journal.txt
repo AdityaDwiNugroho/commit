@@ -38,3 +38,4 @@
 2009-02-07 23:45:34: Testing stuff. Results unclear.
 2009-02-08 19:20:59: Minimized computational overhead
 2009-02-09 13:17:12: Performance optimization
+2009-02-10 20:04:10: Refactored code.
