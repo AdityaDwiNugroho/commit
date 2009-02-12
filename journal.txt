@@ -40,3 +40,4 @@
 2009-02-09 13:17:12: Performance optimization
 2009-02-10 20:04:10: Refactored code.
 2009-02-11 15:52:58: Learning by breaking things. As usual.
+2009-02-12 15:06:11: Rewrote a function just to sleep better.
