@@ -49,3 +49,4 @@
 2009-02-18 17:54:06: Implemented best practices
 2009-02-19 09:46:16: Who needs sleep when you have bugs?
 2009-02-20 19:14:40: Threw together a prototype. It's ugly.
+2009-02-21 19:22:55: Fixed one bug, created three.
