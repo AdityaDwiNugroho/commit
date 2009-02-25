@@ -53,3 +53,4 @@
 2009-02-22 17:07:11: Deployment day stress
 2009-02-23 10:15:02: Pushed boundaries further
 2009-02-24 15:28:35: Spaghetti phase. Needs cleanup later.
+2009-02-25 13:37:34: Learning async the hard way.
