@@ -55,3 +55,4 @@
 2009-02-24 15:28:35: Spaghetti phase. Needs cleanup later.
 2009-02-25 13:37:34: Learning async the hard way.
 2009-02-26 09:39:41: StackOverflow taught me something new today.
+2009-02-27 14:27:34: Commented out chaos. Will revisit later.
