@@ -61,3 +61,4 @@
 2009-03-02 13:54:33: Modernized architecture
 2009-03-03 14:02:03: This is fine. Everything is fine.
 2009-03-04 16:46:07: Finally understood something from last week.
+2009-03-05 12:04:03: It's not a bug, it's a feature.
