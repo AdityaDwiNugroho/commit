@@ -63,3 +63,4 @@
 2009-03-04 16:46:07: Finally understood something from last week.
 2009-03-05 12:04:03: It's not a bug, it's a feature.
 2009-03-06 15:32:19: Improved memory usage
+2009-03-07 11:46:22: Optimized build process
