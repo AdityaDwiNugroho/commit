@@ -65,3 +65,4 @@
 2009-03-06 15:32:19: Improved memory usage
 2009-03-07 11:46:22: Optimized build process
 2009-03-08 21:30:23: Finally understood something from last week.
+2009-03-09 16:42:05: Finally fixed layout shifting!
