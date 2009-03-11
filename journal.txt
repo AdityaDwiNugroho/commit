@@ -67,3 +67,4 @@
 2009-03-08 21:30:23: Finally understood something from last week.
 2009-03-09 16:42:05: Finally fixed layout shifting!
 2009-03-10 22:32:38: Pushing weird changes for fun.
+2009-03-11 16:33:45: Cleaned up unused code
