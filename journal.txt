@@ -76,3 +76,4 @@
 2009-03-17 10:38:19: Linted it all. My eyes hurt.
 2009-03-18 18:04:49: Refactored for performance
 2009-03-19 22:10:51: Upgraded framework version
+2009-03-20 23:41:53: Eliminated bottlenecks
