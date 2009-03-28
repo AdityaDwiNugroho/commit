@@ -84,3 +84,4 @@
 2009-03-25 18:38:11: Improved error recovery
 2009-03-26 21:33:25: Tried something from a blog. Kinda works.
 2009-03-27 17:36:50: Docker did a thing. I don't understand it yet.
+2009-03-28 22:58:40: Made magic happen
