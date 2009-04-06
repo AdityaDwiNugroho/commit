@@ -93,3 +93,4 @@
 2009-04-03 11:58:42: Production hotfix panic
 2009-04-04 21:35:27: Turns out I misunderstood Promises all this time.
 2009-04-05 10:10:34: Cached expensive computations
+2009-04-06 21:51:54: Finally figured it out
