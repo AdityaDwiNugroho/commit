@@ -97,3 +97,4 @@
 2009-04-07 10:49:24: Updated .env.example like a responsible dev.
 2009-04-08 18:46:29: Small improvements.
 2009-04-09 17:31:11: Learning async the hard way.
+2009-04-10 16:55:11: Rewrote a function just to sleep better.
