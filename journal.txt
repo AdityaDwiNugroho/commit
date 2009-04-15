@@ -102,3 +102,4 @@
 2009-04-12 20:56:51: Threw together a prototype. It's ugly.
 2009-04-13 18:13:30: Removed console.logs. Like a real dev.
 2009-04-14 10:19:11: Rubber duck debugging
+2009-04-15 14:56:11: Documentation update
