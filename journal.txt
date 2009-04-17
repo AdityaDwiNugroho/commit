@@ -104,3 +104,4 @@
 2009-04-14 10:19:11: Rubber duck debugging
 2009-04-15 14:56:11: Documentation update
 2009-04-16 16:48:01: Enhanced security protocols
+2009-04-17 23:18:26: Made a button feel clicky. Nice.
