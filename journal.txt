@@ -107,3 +107,4 @@
 2009-04-17 23:18:26: Made a button feel clicky. Nice.
 2009-04-18 10:41:31: Code edit.
 2009-04-19 20:32:48: Crafted elegant solutions
+2009-04-20 10:49:01: Improved API design
