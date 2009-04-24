@@ -111,3 +111,4 @@
 2009-04-21 12:38:21: Streamlined data processing
 2009-04-22 13:35:51: Tweaked the CI again. Hope it works now.
 2009-04-23 17:13:16: Innovation meets execution
+2009-04-24 11:00:26: Implemented best practices
