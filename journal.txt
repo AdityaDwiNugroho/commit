@@ -114,3 +114,4 @@
 2009-04-24 11:00:26: Implemented best practices
 2009-04-25 09:05:09: Responsive now... mostly.
 2009-04-26 20:55:03: Exceeded expectations
+2009-04-27 19:57:26: Tried centering a div. Again.
