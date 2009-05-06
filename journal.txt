@@ -123,3 +123,4 @@
 2009-05-03 09:13:35: Logged some rough ideas. Not sure they'll work.
 2009-05-04 17:47:30: Tried centering a div. Again.
 2009-05-05 13:49:39: Improved memory usage
+2009-05-06 11:26:07: Boosted throughput significantly
