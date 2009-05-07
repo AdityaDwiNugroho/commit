@@ -124,3 +124,4 @@
 2009-05-04 17:47:30: Tried centering a div. Again.
 2009-05-05 13:49:39: Improved memory usage
 2009-05-06 11:26:07: Boosted throughput significantly
+2009-05-07 09:33:34: Enhanced security protocols
