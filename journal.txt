@@ -135,3 +135,4 @@
 2009-05-15 15:11:54: Fine-tuned parameters
 2009-05-16 17:20:57: Left TODOs for later. Might not come back.
 2009-05-17 09:45:14: Code works. Don't touch it.
+2009-05-18 21:12:52: Git merge conflict nightmare
