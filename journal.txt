@@ -144,3 +144,4 @@
 2009-05-24 19:41:47: Code review feedback
 2009-05-25 20:26:45: Streamlined workflows
 2009-05-26 13:19:54: Reading specs now. Pray for me.
+2009-05-27 09:33:08: Debugging at lightspeed
