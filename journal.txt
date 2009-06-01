@@ -149,3 +149,4 @@
 2009-05-29 10:56:42: Improved code quality
 2009-05-30 23:17:09: Upgraded framework version
 2009-05-31 09:45:49: Enhanced security protocols
+2009-06-01 22:15:15: Fixed one bug, created three.
