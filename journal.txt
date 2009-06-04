@@ -152,3 +152,4 @@
 2009-06-01 22:15:15: Fixed one bug, created three.
 2009-06-02 16:34:21: Fine-tuned parameters
 2009-06-03 21:58:14: Resolved merge conflicts
+2009-06-04 12:06:51: Added monitoring capabilities
