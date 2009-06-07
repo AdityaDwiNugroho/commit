@@ -155,3 +155,4 @@
 2009-06-04 12:06:51: Added monitoring capabilities
 2009-06-05 11:33:34: Minimized computational overhead
 2009-06-06 10:21:57: Tried a different library. Not sure if better.
+2009-06-07 17:17:35: Didn't write anything useful.
