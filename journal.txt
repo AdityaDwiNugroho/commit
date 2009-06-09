@@ -157,3 +157,4 @@
 2009-06-06 10:21:57: Tried a different library. Not sure if better.
 2009-06-07 17:17:35: Didn't write anything useful.
 2009-06-08 19:48:38: Coffee-driven development
+2009-06-09 13:21:40: Strengthened data validation
