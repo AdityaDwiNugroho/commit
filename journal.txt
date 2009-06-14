@@ -162,3 +162,4 @@
 2009-06-11 15:38:41: StackOverflow taught me something new today.
 2009-06-12 18:17:23: Followed a YouTube tutorial. Got distracted by the music.
 2009-06-13 23:40:35: Pair programming session
+2009-06-14 23:04:36: Watched a tutorial. Didn't follow it exactly.
