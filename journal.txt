@@ -173,3 +173,4 @@
 2009-06-22 12:42:19: Refactored entire codebase
 2009-06-23 13:51:19: Production hotfix panic
 2009-06-24 21:35:11: Refactored code.
+2009-06-25 09:27:06: Deleted old components no one used.
