@@ -175,3 +175,4 @@
 2009-06-24 21:35:11: Refactored code.
 2009-06-25 09:27:06: Deleted old components no one used.
 2009-06-26 21:35:35: Tried a different library. Not sure if better.
+2009-06-27 11:54:59: Reduced latency by 40%
