@@ -177,3 +177,4 @@
 2009-06-26 21:35:35: Tried a different library. Not sure if better.
 2009-06-27 11:54:59: Reduced latency by 40%
 2009-06-28 18:39:45: Made a button feel clicky
+2009-06-29 09:57:03: It's not a bug, it's a feature.
