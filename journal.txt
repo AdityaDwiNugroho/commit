@@ -187,3 +187,4 @@
 2009-07-06 23:52:15: Cowboy coding at its finest.
 2009-07-07 11:24:00: Commented out chaos. Will revisit later.
 2009-07-08 19:38:09: Built something beautiful
+2009-07-09 20:23:03: Tried a different library. Not sure if better.
