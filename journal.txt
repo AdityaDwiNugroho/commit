@@ -190,3 +190,4 @@
 2009-07-09 20:23:03: Tried a different library. Not sure if better.
 2009-07-10 19:37:58: Followed a YouTube tutorial. Got distracted by the music.
 2009-07-11 15:59:32: Implemented new feature
+2009-07-12 10:47:13: Polished a few things.
