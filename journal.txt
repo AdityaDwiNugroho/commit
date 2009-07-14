@@ -192,3 +192,4 @@
 2009-07-11 15:59:32: Implemented new feature
 2009-07-12 10:47:13: Polished a few things.
 2009-07-13 21:54:14: Followed a YouTube tutorial. Got distracted by the music.
+2009-07-14 23:53:53: Polished a few things.
