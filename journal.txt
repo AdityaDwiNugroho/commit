@@ -198,3 +198,4 @@
 2009-07-17 18:52:15: Linted it all. My eyes hurt.
 2009-07-18 09:52:36: Deleted old components no one used.
 2009-07-19 19:01:53: Cleaned up debug logs. I miss them already.
+2009-07-20 15:43:23: Made magic happen
