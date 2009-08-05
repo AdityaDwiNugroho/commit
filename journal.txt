@@ -214,3 +214,4 @@
 2009-08-02 12:04:18: Innovation meets execution
 2009-08-03 13:42:00: Enhanced scalability
 2009-08-04 12:11:52: Hackathon-style coding today.
+2009-08-05 09:42:20: Logged some rough ideas. Not sure they'll work.
