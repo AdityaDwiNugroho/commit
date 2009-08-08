@@ -217,3 +217,4 @@
 2009-08-05 09:42:20: Logged some rough ideas. Not sure they'll work.
 2009-08-06 19:54:08: Built something beautiful
 2009-08-07 19:29:54: Updated some files.
+2009-08-08 22:24:47: Coffee-driven development
