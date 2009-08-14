@@ -223,3 +223,4 @@
 2009-08-11 21:38:46: Tweaked the CI again. Hope it works now.
 2009-08-12 09:24:15: Forms no longer broken. Big win.
 2009-08-13 14:59:27: Testing edge cases
+2009-08-14 11:42:45: Git merge conflict nightmare
