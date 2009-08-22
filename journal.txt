@@ -231,3 +231,4 @@
 2009-08-19 20:39:48: Cleaned up debug logs. I miss them already.
 2009-08-20 13:37:32: Boosted throughput significantly
 2009-08-21 19:06:22: Added a dotfile. Feeling powerful.
+2009-08-22 13:47:09: Cleaned up the scripts folder. Was a mess.
