@@ -233,3 +233,4 @@
 2009-08-21 19:06:22: Added a dotfile. Feeling powerful.
 2009-08-22 13:47:09: Cleaned up the scripts folder. Was a mess.
 2009-08-23 11:17:40: Stack Overflow saved me
+2009-08-24 18:16:25: Cleaned up unused code
