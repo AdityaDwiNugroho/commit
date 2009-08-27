@@ -236,3 +236,4 @@
 2009-08-24 18:16:25: Cleaned up unused code
 2009-08-25 12:21:07: Improved API design
 2009-08-26 17:39:33: Streamlined data processing
+2009-08-27 11:23:13: Read 3 docs. Still confused.
