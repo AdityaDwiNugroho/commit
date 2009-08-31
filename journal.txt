@@ -240,3 +240,4 @@
 2009-08-28 19:36:07: Built with vibes only.
 2009-08-29 18:19:19: Small but mighty update
 2009-08-30 16:34:13: Commit now, regret later.
+2009-08-31 10:02:02: Thought about modularizing config loader.
