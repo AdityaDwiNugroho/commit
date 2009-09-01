@@ -241,3 +241,4 @@
 2009-08-29 18:19:19: Small but mighty update
 2009-08-30 16:34:13: Commit now, regret later.
 2009-08-31 10:02:02: Thought about modularizing config loader.
+2009-09-01 10:30:00: Small but mighty update
