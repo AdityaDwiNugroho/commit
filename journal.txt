@@ -262,3 +262,4 @@
 2009-09-19 09:54:58: Tried a different library. Not sure if better.
 2009-09-20 20:48:03: Boosted throughput significantly
 2009-09-21 20:47:05: Weekend coding marathon
+2009-09-22 20:24:47: Eliminated bottlenecks
