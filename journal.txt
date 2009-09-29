@@ -269,3 +269,4 @@
 2009-09-26 13:16:56: Parallelized critical operations
 2009-09-27 09:44:02: Didn't write anything useful.
 2009-09-28 12:30:00: Improved code quality
+2009-09-29 17:14:34: Turns out I misunderstood Promises all this time.
