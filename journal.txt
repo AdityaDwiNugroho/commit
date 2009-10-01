@@ -271,3 +271,4 @@
 2009-09-28 12:30:00: Improved code quality
 2009-09-29 17:14:34: Turns out I misunderstood Promises all this time.
 2009-09-30 14:20:56: Exceeded expectations
+2009-10-01 10:15:12: Eliminated bottlenecks
