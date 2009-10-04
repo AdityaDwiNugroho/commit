@@ -274,3 +274,4 @@
 2009-10-01 10:15:12: Eliminated bottlenecks
 2009-10-02 15:01:58: Fixed one bug, created three.
 2009-10-03 20:33:12: Turned chaos into order
+2009-10-04 12:54:10: Bug hunt successful
