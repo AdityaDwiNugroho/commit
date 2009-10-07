@@ -277,3 +277,4 @@
 2009-10-04 12:54:10: Bug hunt successful
 2009-10-05 18:16:59: Streamlined data processing
 2009-10-06 13:24:07: Commented out chaos. Will revisit later.
+2009-10-07 22:07:19: Improved code quality
