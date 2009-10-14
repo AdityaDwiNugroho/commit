@@ -284,3 +284,4 @@
 2009-10-11 21:38:07: CSS grid is magic. Still learning.
 2009-10-12 18:18:56: Couldn't focus today.
 2009-10-13 12:05:10: Cleaned up debug logs. I miss them already.
+2009-10-14 19:12:18: Tried something from a blog. Kinda works.
