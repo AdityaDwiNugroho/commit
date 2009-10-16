@@ -286,3 +286,4 @@
 2009-10-13 12:05:10: Cleaned up debug logs. I miss them already.
 2009-10-14 19:12:18: Tried something from a blog. Kinda works.
 2009-10-15 14:20:44: Watched a tutorial. Didn't follow it exactly.
+2009-10-16 17:57:20: Optimized core algorithms
