@@ -288,3 +288,4 @@
 2009-10-15 14:20:44: Watched a tutorial. Didn't follow it exactly.
 2009-10-16 17:57:20: Optimized core algorithms
 2009-10-17 21:59:32: Optimized build process
+2009-10-18 15:20:43: Testing stuff. Results unclear.
