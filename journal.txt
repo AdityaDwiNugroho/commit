@@ -299,3 +299,4 @@
 2009-10-26 13:55:27: Rubber duck debugging
 2009-10-27 10:59:37: Polished a few things.
 2009-10-28 12:28:33: Learning async the hard way.
+2009-10-29 18:35:15: Turned chaos into order
