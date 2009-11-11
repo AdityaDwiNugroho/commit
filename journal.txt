@@ -312,3 +312,4 @@
 2009-11-08 23:34:13: Modernized architecture
 2009-11-09 17:38:46: Merged feature branch
 2009-11-10 12:08:14: Docker did a thing. I don't understand it yet.
+2009-11-11 12:15:02: Polished a few things.
