@@ -316,3 +316,4 @@
 2009-11-12 13:11:47: Docker did a thing. I don't understand it yet.
 2009-11-13 21:49:43: Cached expensive computations
 2009-11-14 13:16:16: Eliminated bottlenecks
+2009-11-15 17:58:19: Removed 100 lines of dead code.
