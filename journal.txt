@@ -351,3 +351,4 @@
 2009-12-17 11:45:54: CSS grid is magic. Still learning.
 2009-12-18 12:49:37: Turned chaos into order
 2009-12-19 11:22:07: General maintenance.
+2009-12-20 16:01:29: Burned out. Need a break.
