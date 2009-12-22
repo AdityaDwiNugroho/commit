@@ -353,3 +353,4 @@
 2009-12-19 11:22:07: General maintenance.
 2009-12-20 16:01:29: Burned out. Need a break.
 2009-12-21 15:02:55: Strengthened data validation
+2009-12-22 22:41:48: YAML gods weren't kind today.
