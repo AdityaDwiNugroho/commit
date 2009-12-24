@@ -355,3 +355,4 @@
 2009-12-21 15:02:55: Strengthened data validation
 2009-12-22 22:41:48: YAML gods weren't kind today.
 2009-12-23 21:01:47: Who needs sleep when you have bugs?
+2009-12-24 11:14:39: Code cleanup day
