@@ -368,3 +368,4 @@
 2023-01-03 16:12:00: Refactoring working code for no reason.
 2023-01-04 20:22:33: Scope creep has entered the chat.
 2023-01-05 19:19:54: Song ended mid function still typing.
+2023-01-06 10:16:06: Spent hour choosing variable names.
