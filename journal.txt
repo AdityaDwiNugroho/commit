@@ -8,3 +8,4 @@
 2023-01-07 23:27:18: Finally understood something from last week.
 2023-01-08 13:26:31: Minor updates.
 2023-01-09 11:39:52: Built with vibes only.
+2023-01-10 14:48:09: Refactored entire codebase
