@@ -385,3 +385,4 @@
 2023-01-20 10:33:03: Implemented best practices
 2023-01-21 09:13:03: Doorbell interrupted flow state.
 2023-01-22 10:22:53: Cursing previous developer spoiler it was me.
+2023-01-23 20:40:48: Read 3 docs. Still confused.
