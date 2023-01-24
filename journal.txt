@@ -386,3 +386,4 @@
 2023-01-21 09:13:03: Doorbell interrupted flow state.
 2023-01-22 10:22:53: Cursing previous developer spoiler it was me.
 2023-01-23 20:40:48: Read 3 docs. Still confused.
+2023-01-24 22:29:26: Spring cleaning the codebase.
