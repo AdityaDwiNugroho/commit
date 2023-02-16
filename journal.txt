@@ -409,3 +409,4 @@
 2023-02-13 19:13:41: Why do I do this to myself.
 2023-02-14 19:15:18: Spent hour choosing variable names.
 2023-02-15 22:13:29: Re-indented everything. Worth it.
+2023-02-16 22:37:54: Test driven development more like test driven depression.
