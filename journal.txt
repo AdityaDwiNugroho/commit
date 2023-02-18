@@ -411,3 +411,4 @@
 2023-02-15 22:13:29: Re-indented everything. Worth it.
 2023-02-16 22:37:54: Test driven development more like test driven depression.
 2023-02-17 19:01:50: This is fine. Everything is fine.
+2023-02-18 17:14:47: Committing before I forget what I did.
