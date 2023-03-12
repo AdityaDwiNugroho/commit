@@ -69,3 +69,4 @@
 2023-03-09 12:38:25: Turns out I misunderstood Promises all this time.
 2023-03-10 12:41:01: Trying to remember what I was doing.
 2023-03-11 09:40:06: Emergency bathroom break mid debugging.
+2023-03-12 19:40:48: Boosted throughput significantly
