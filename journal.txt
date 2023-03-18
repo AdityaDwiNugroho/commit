@@ -75,3 +75,4 @@
 2023-03-15 20:13:18: Week ending on high note.
 2023-03-16 19:16:05: Avoiding the elephant in the room.
 2023-03-17 12:17:02: Coding while cooking resulted in burnt food.
+2023-03-18 21:47:47: Docker did a thing. I don't understand it yet.
