@@ -82,3 +82,4 @@
 2023-03-22 12:38:09: Commit for today.
 2023-03-23 12:26:21: Fake it till you make it.
 2023-03-24 23:12:55: CI now yells less at me.
+2023-03-25 18:42:12: Removed console.logs. Like a real dev.
