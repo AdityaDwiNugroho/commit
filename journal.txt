@@ -84,3 +84,4 @@
 2023-03-24 23:12:55: CI now yells less at me.
 2023-03-25 18:42:12: Removed console.logs. Like a real dev.
 2023-03-26 17:53:13: General maintenance.
+2023-03-27 13:00:29: Debugging with console.log like a caveman.
