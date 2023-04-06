@@ -94,3 +94,4 @@
 2023-04-03 09:16:25: Refactored for performance
 2023-04-04 16:34:17: Pushing through the struggle.
 2023-04-05 23:00:23: Monday morning catch up commits.
+2023-04-06 21:23:23: Code should tell a story.
