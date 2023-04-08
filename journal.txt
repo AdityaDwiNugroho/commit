@@ -96,3 +96,4 @@
 2023-04-05 23:00:23: Monday morning catch up commits.
 2023-04-06 21:23:23: Code should tell a story.
 2023-04-07 14:59:05: Coding through the pain.
+2023-04-08 14:21:15: Re-read old code. Confused but impressed.
