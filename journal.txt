@@ -555,3 +555,4 @@
 2023-07-09 10:16:42: Classical music makes me write elegant code.
 2023-07-10 16:08:29: Ordered takeout forgot to eat it.
 2023-07-11 10:01:09: Removed console.logs. Like a real dev.
+2023-07-12 18:40:10: Docker did a thing. I don't understand it yet.
