@@ -569,3 +569,4 @@
 2023-07-23 19:18:32: Updated .env.example like a responsible dev.
 2023-07-24 23:03:57: Animations now slightly less janky.
 2023-07-25 13:52:45: Weekend coding marathon
+2023-07-26 14:12:02: Watched a tutorial. Didn't follow it exactly.
