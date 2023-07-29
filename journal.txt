@@ -208,3 +208,4 @@
 2023-07-26 11:19:16: Avoiding the elephant in the room.
 2023-07-27 17:24:54: Minimized computational overhead
 2023-07-28 14:46:59: Reading documentation for fun.
+2023-07-29 09:07:15: Left TODOs for later. Might not come back.
