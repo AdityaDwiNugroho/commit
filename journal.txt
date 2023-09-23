@@ -264,3 +264,4 @@
 2023-09-20 22:55:26: Planning the perfect architecture.
 2023-09-21 20:33:54: Parallelized critical operations
 2023-09-22 23:17:00: Playing with an idea. Might be dumb.
+2023-09-23 22:03:28: Turns out I misunderstood Promises all this time.
