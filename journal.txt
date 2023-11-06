@@ -308,3 +308,4 @@
 2023-11-03 14:53:22: Comfort food comfort code.
 2023-11-04 13:35:38: Browsing GitHub instead of working.
 2023-11-05 20:03:06: Update restarted computer lost changes.
+2023-11-06 18:59:26: Docker did a thing. I don't understand it yet.
