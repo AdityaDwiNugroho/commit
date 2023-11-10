@@ -676,3 +676,4 @@
 2023-11-07 12:38:10: Left TODOs for later. Might not come back.
 2023-11-08 21:01:48: Building the thing nobody wants.
 2023-11-09 11:42:20: Deployment day stress
+2023-11-10 23:41:59: Bug hunting season is open.
