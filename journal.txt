@@ -353,3 +353,4 @@
 2023-12-18 23:24:05: Hotfixing on Friday afternoon.
 2023-12-19 13:11:29: Code works. Don't touch it.
 2023-12-20 09:27:20: Threw together a prototype. It's ugly.
+2023-12-21 15:54:38: Finally caught that sneaky little bug.
