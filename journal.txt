@@ -417,3 +417,4 @@
 2024-05-03 23:49:41: Not sure if this works but whatever.
 2024-05-09 14:27:51: Fasting for focus backfired.
 2024-05-11 23:32:26: Random changes during lunch break.
+2024-05-12 16:54:13: Refreshed some Makefile voodoo.
