@@ -440,3 +440,4 @@
 2024-06-28 17:10:51: Might delete this later.
 2024-06-30 16:05:12: Cursing previous developer spoiler it was me.
 2024-07-02 10:28:42: Thought about modularizing config loader.
+2024-07-08 20:32:10: Classical music makes me write elegant code.
