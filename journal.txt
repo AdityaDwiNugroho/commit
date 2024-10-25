@@ -486,3 +486,4 @@
 2024-10-14 16:08:24: Fake it till you make it.
 2024-10-15 21:54:18: New feature nobody asked for.
 2024-10-23 20:28:21: Optimizing code that works fine.
+2024-10-25 18:45:12: Documented API changes
