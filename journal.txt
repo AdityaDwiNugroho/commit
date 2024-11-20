@@ -420,3 +420,4 @@
 2024-10-21 21:37:59: Spaghetti phase. Needs cleanup later.
 2024-10-22 09:54:49: StackOverflow taught me something new today.
 2024-11-18 17:57:49: Enhanced scalability
+2024-11-20 15:25:22: Animations now slightly less janky.
