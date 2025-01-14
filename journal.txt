@@ -10,3 +10,4 @@
 2023-11-17 10:28:40: 3 AM debugging session
 2025-01-12 13:49:43: Fixed one bug, created three.
 2025-01-13 15:17:30: Forms no longer broken. Big win.
+2025-01-14 21:54:47: Eliminated bottlenecks
