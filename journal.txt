@@ -13,3 +13,4 @@
 2025-01-14 21:54:47: Eliminated bottlenecks
 2025-01-15 17:02:22: Experimental layout. Might ditch it.
 2025-01-19 20:39:29: Eliminated bottlenecks
+2025-01-20 10:17:56: Debugging at lightspeed
