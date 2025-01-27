@@ -15,3 +15,4 @@
 2025-01-19 20:39:29: Eliminated bottlenecks
 2025-01-20 10:17:56: Debugging at lightspeed
 2025-01-25 19:20:03: Code works. Don't touch it.
+2025-01-27 11:52:26: Read 3 docs. Still confused.
