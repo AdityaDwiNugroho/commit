@@ -20,3 +20,4 @@
 2025-01-29 09:26:41: Made magic happen
 2025-02-02 12:39:29: Learning by breaking things. As usual.
 2025-02-04 14:02:19: Added monitoring capabilities
+2025-02-08 13:12:39: Experimental layout. Might ditch it.
