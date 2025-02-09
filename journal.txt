@@ -21,3 +21,4 @@
 2025-02-02 12:39:29: Learning by breaking things. As usual.
 2025-02-04 14:02:19: Added monitoring capabilities
 2025-02-08 13:12:39: Experimental layout. Might ditch it.
+2025-02-09 11:05:29: Watched a tutorial. Didn't follow it exactly.
