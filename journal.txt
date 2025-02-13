@@ -23,3 +23,4 @@
 2025-02-08 13:12:39: Experimental layout. Might ditch it.
 2025-02-09 11:05:29: Watched a tutorial. Didn't follow it exactly.
 2025-02-11 18:07:42: Commit now, regret later.
+2025-02-13 12:59:37: Modernized architecture
