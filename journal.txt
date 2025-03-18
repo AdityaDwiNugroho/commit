@@ -553,3 +553,5 @@
 2025-03-10 14:21:56: This feature will change everything.
 2025-03-12 23:37:01: Re-indented everything. Worth it.
 2025-03-14 14:26:17: Rubber duck debugging
+2025-03-17 17:25:20: Backup failed right when needed most.
+2025-03-18 17:11:42: Just messing around with stuff.
