@@ -564,3 +564,9 @@
 2025-04-02 13:57:34: Code works. Don't touch it.
 2025-04-03 21:36:51: Humidity making my laptop sticky.
 2025-04-07 14:34:00: Left TODOs for later. Might not come back.
+2025-04-11 21:10:10: Organizing my desktop instead of coding.
+2025-04-13 12:35:34: Implemented best practices
+2025-04-14 20:56:33: Thought about modularizing config loader
+2025-04-15 17:33:14: Debugging other people's code.
+2025-04-16 18:00:10: Caffeinated and dangerous.
+2025-04-17 16:20:11: Cursing previous developer spoiler it was me.
