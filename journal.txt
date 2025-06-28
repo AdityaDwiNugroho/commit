@@ -778,12 +778,6 @@
 2025-05-07 10:34:14: Rewrote a function just to sleep better.
 2025-05-11 16:57:37: Documentation update
 2025-05-12 18:56:20: Yeeted some code into production
-2025-05-15 22:24:55: Zombie mode programming.
-2025-05-24 14:17:54: Air conditioning broke so code is melting.
-2025-06-02 10:32:22: Test driven development more like test driven depression.
-2025-06-12 14:54:03: Perfect coding weather today.
-2025-06-20 11:39:12: Crafted elegant solutions
-2025-06-27 11:41:09: Deployment day stress
 2025-07-16 22:05:04: Having argument with past self.
 2025-07-19 23:16:04: This song inspired better variable names.
 2025-07-21 11:56:39: Left TODOs for later. Might not come back.
