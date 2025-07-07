@@ -614,3 +614,4 @@
 2025-07-03 16:09:29: Fixed critical bug
 2025-07-04 23:04:58: Song ended mid function still typing.
 2025-07-06 22:07:17: Commented out chaos. Will revisit later.
+2025-07-07 16:18:58: Updated .env.example like a responsible dev.
