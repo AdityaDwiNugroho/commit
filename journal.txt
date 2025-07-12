@@ -615,3 +615,6 @@
 2025-07-04 23:04:58: Song ended mid function still typing.
 2025-07-06 22:07:17: Commented out chaos. Will revisit later.
 2025-07-07 16:18:58: Updated .env.example like a responsible dev.
+2025-07-08 15:13:05: Refreshed some Makefile voodoo.
+2025-07-09 21:37:22: Friday motivation wearing thin.
+2025-07-12 19:18:47: Saving progress I guess.
