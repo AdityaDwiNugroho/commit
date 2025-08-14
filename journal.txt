@@ -635,3 +635,4 @@
 2025-08-10 15:07:51: What is the meaning of this function.
 2025-08-12 16:29:27: Turns out I misunderstood Promises all this time.
 2025-08-13 20:02:17: Cursing previous developer spoiler it was me.
+2025-08-14 11:59:03: Noise cancelling headphones save lives.
