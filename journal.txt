@@ -84,3 +84,4 @@
 2025-09-10 09:48:39: Watched a tutorial. Didn't follow it exactly.
 2025-09-25 15:16:31: Modernized architecture
 2025-10-01 13:13:55: Left TODOs for later. Might not come back.
+2025-10-03 14:45:48: Improved API design
