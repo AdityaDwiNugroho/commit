@@ -87,3 +87,4 @@
 2025-10-03 14:45:48: Improved API design
 2025-10-06 17:51:37: Merged feature branch
 2025-10-07 20:31:44: Code edit.
+2025-10-18 15:09:43: Cleaned up the scripts folder. Was a mess.
