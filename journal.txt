@@ -90,3 +90,4 @@
 2025-10-18 15:09:43: Cleaned up the scripts folder. Was a mess.
 2025-10-20 17:45:19: Learning by breaking things. As usual.
 2025-10-23 10:28:47: Optimized database queries
+2025-10-24 09:01:46: Tried a different library. Not sure if better.
