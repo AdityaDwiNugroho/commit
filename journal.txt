@@ -93,3 +93,4 @@
 2025-10-24 09:01:46: Tried a different library. Not sure if better.
 2025-10-29 12:34:43: Responsive now... mostly.
 2025-10-31 11:56:43: Streamlined data processing
+2025-11-05 10:01:47: Docker did a thing. I don't understand it yet.
