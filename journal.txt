@@ -446,3 +446,4 @@
 2025-11-14 22:36:57: E2E tests taking forever to run.
 2025-11-19 11:29:38: Updated dependencies
 2025-11-27 17:46:42: Resolved merge conflicts
+2025-11-30 23:15:10: Docker did a thing. I don't understand it yet.
