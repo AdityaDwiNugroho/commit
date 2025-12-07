@@ -603,3 +603,4 @@
 2025-11-28 21:24:55: Rubber duck debugging
 2025-11-30 14:00:04: Not sure if this works but whatever.
 2025-12-05 18:07:12: Merged feature branch
+2025-12-07 15:53:29: Watched a tutorial. Didn't follow it exactly.
