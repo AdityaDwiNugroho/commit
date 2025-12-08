@@ -98,3 +98,4 @@
 2025-11-18 20:11:16: Left TODOs for later
 2025-11-21 14:07:37: Enhanced user experience
 2025-11-26 14:56:15: Dropdowns behaving today.
+2025-12-08 19:40:33: Cleaned up debug logs. I miss them already.
