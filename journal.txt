@@ -102,3 +102,4 @@
 2025-12-09 12:20:19: Removed a TODO from 2022.
 2025-12-10 18:27:43: Stack Overflow saved me
 2025-12-11 18:12:42: Reading specs now. Pray for me.
+2025-12-12 15:11:26: Read 3 docs. Still confused.
